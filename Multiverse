@@ -122,18 +122,18 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
 https://bit.ly/3KSFsoT
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
-https://cutt.ly/hOg1K3F
+
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
-#https://rebrand.ly/04141e
+
 #EXTINF: group-title="Movies" tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
 https://bit.ly/3AMz5yS
 #EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3Gt7a9n",Colors Cineplex HD
-https://cutt.ly/zOg0rPR
+
 #EXTINF: group-title="Movies" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
-#https://rebrand.ly/440d04
+
 #EXTINF: group-title="Sports" tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
 https://cutt.ly/tOg11NK
 #EXTINF: group-title="Sports" tvg-logo="https://bit.ly/3EDEI32", Star Sports 1 HD
-https://cutt.ly/1Og141D
+
 #EXTINF: group-title="Lifestyle" tvg-logo="https://bit.ly/3mnHCTb", Zee Zest HD
 https://bit.ly/3AH1DK2
