@@ -1,0 +1,135 @@
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3pJRTuY",Colors HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3bjgi25", Zee TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3Eg8OcG", And TV HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3GdGI2h", DD National
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3Hcsobv",Comedy Central HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/34lx5Ba",Colors Infinity HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
+
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
+#EXTINF:0 group-title="Movies" tvg-chno="6" tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
+#EXTINF:0  group-title="Movies" tvg-logo="https://bit.ly/3vUxGnl", And Pictures HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185 
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3G6f2MB", Colors Cineplex
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3o7TQ2G", Sony Max SD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=289
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3Gt7a9n",Colors Cineplex HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3FovjfX",Sony MAX2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483
+#EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/2ZwYxd6",Zee Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
+#EXTINF:0 group-title="Movies"tvg-logo="https://bit.ly/3vQMPWR",Sony Pix HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
+
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3Eox0K2",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3Cji6nD",ABP News India
+https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/2ZthOw3",News 18 India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3BKfv52",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/2Zx7B1l",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF: group-title="News" tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
+https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/chunklist_4.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3bjFOUX",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3vUt4NO",Republic TV
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=858
+
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3nFGpG8",MTV HD Plus
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3Gyl3TJ",MTV Beats HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BlAZ7Z",Mastiii
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=584
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3mo62vM",Zing
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=585
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BoDCG4",9XM
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=587
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BlPxof",E 24
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=591
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3C6q42y",B4U Music
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=183
+#EXTINF:0 group-title="Music"tvg-logo="https://bit.ly/3nwwwuq",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3bgcj6x",Music India
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=250
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3bkkEGg",Sony Six HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
+#EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3jKBLWj",Ten 1 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
+#EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3vRKQ4z",Ten 2 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
+#EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3moRprW",Ten 3 HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
+#EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3o8VcdC",Eurosport HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
+
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EuBn6f",Discovery HD World
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3jIyZkc",Animal Planet HD World
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/2Y50YTQ",History TV18 HD Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://bit.ly/3bkpraG",TLC HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://bit.ly/3g7FQlm",Travel XP HD Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3g5G5wX",Animal Planet Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3rd1Oty",Discovery Channel Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://bit.ly/33TZQ8B",Food Food
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EoRUbL",Sony BBC Earth HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
+
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3bkqaZs",Nick Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3w3ACxP",Pogo Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=559
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/314DEGN",Cartoon Network Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=816
+#EXTINF:0  group-title="Kids" tvg-logo="https://bit.ly/3ml3237",Sonic Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3Gt2RuT",Sony Yay Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3bkqaZs",Nickelodeon
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=547
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3Gd31oT",CN HD+ English
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
+#EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/2XRHQsb",Discovery Kids 2
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
+
+#EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
+https://rebrand.ly/a7e338
+#EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
+https://rebrand.ly/z1q6z5f
+#EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
+https://rebrand.ly/04141e
+#EXTINF: group-title="Movies" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
+https://rebrand.ly/440d04
+#EXTINF: group-title="Sports" tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
+https://rebrand.ly/42706f
+#EXTINF: group-title="Sports" tvg-logo="https://bit.ly/3EDEI32", Star Sports 1 HD
+https://rebrand.ly/esmoizg
+#EXTINF: group-title="Lifestyle" tvg-logo="https://bit.ly/3mnHCTb", Zee Zest HD
+https://rebrand.ly/vylf37h
