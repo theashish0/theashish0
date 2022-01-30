@@ -120,11 +120,13 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
-http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/86172
+https://bit.ly/3KSFsoT
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
 #https://rebrand.ly/z1q6z5f
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
 #https://rebrand.ly/04141e
+#EXTINF: group-title="Movies" tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
+https://bit.ly/3AMz5yS
 #EXTINF: group-title="Movies" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
 #https://rebrand.ly/440d04
 #EXTINF: group-title="Sports" tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
