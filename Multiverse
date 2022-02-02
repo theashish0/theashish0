@@ -40,37 +40,45 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3Cji6nD", ABP News India
 https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
+#EXTINF: group-title="News" tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
+https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/2ZthOw3", News 18 India
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=231
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF: group-title="News" tvg-logo="https://bit.ly/3GyYZsq", News Nation
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3BKfv52", India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/2Zx7B1l", Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF: group-title="News" tvg-logo="https://bit.ly/3CTYoPz", India News
+https://itvoign.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 #EXTINF: group-title="News" tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
 https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/chunklist_4.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3bjFOUX", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3vUt4NO", Republic TV
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=858
+https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+#EXTINF: group-title="News" tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BlAZ7Z", Mastiii
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=584
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3mo62vM", Zing
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=585
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BoDCG4", 9XM
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=587
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3BlPxof", E 24
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=591
+https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3C6q42y", B4U Music
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=183
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0 group-title="Music"tvg-logo="https://bit.ly/3nwwwuq", ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3bgcj6x", Music India
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=250
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/877600.m3u8
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
@@ -85,8 +93,12 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
 
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World Hindi
+https://rebrand.ly/tioygdt
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
+#EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World Hindi
+https://rebrand.ly/v33czxg
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
 #EXTINF:0 group-title="Lifestyle" tvg-logo="https://bit.ly/3bkpraG", TLC HD
@@ -102,6 +114,10 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
 
+#EXTINF: group-title="Kids" tvg-logo="https://bit.ly/3nFcnlQ", Disney
+http://103.153.39.36:8000/play/a01y
+#EXTINF: group-title="Kids" tvg-logo="https://bit.ly/3yaUiB3", Hungama TV
+http://103.153.39.36:8000/play/a01x
 #EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3bkqaZs", Nick Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
 #EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/3w3ACxP", Pogo Hindi
