@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 #EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
@@ -16,6 +18,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 #EXTINF:0 group-title="Entertainment" tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
+
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:0 group-title="Movies" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
@@ -35,6 +39,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
 #EXTINF:0 group-title="Movies"tvg-logo="https://bit.ly/3vQMPWR", Sony Pix HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
+
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:0 group-title="News" tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -61,6 +67,8 @@ https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
 #EXTINF: group-title="News" tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
@@ -80,6 +88,8 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://bit.ly/3bgcj6x", Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/877600.m3u8
 
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 #EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
 #EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
@@ -90,6 +100,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
 #EXTINF:0 group-title="Sports" tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
+
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
@@ -114,6 +126,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 group-title="Infotainment" tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
 
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 #EXTINF: group-title="Kids" tvg-logo="https://bit.ly/3nFcnlQ", Disney
 http://103.153.39.36:8000/play/a01y
 #EXTINF: group-title="Kids" tvg-logo="https://bit.ly/3yaUiB3", Hungama TV
@@ -135,7 +149,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 #EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 
-_________________________________________________
+#EXTM3U:0, ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
 https://bit.ly/3KSFsoT
