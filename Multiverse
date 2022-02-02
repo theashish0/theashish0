@@ -135,7 +135,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 #EXTINF:0 group-title="Kids" tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 
-#EXTINF:0, _________________________________________________
+_________________________________________________
 
 #EXTINF: group-title="Entertainment" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
 https://bit.ly/3KSFsoT
