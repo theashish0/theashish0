@@ -157,3 +157,11 @@ https://bit.ly/3KSFsoT
 https://bit.ly/3AMz5yS
 #EXTINF:0 tvg-logo="https://bit.ly/3mnHCTb", Zee Zest HD
 https://bit.ly/3AOi33a
+#EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
+http://180.178.130.180:8000/play/a03c/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
+http://180.178.130.180:8000/play/a04r/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
+http://180.178.130.180:8000/play/a03p/index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
+http://180.178.130.180:8000/play/a03m/index.m3u8
