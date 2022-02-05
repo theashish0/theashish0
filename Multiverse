@@ -100,7 +100,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
 #EXTINF:0 tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
-#EXTINF:0 tvg-logo="https://bit.ly/3Gvam3g",Jio Cricket Hindi HD
+#EXTINF:0 tvg-logo="https://bit.ly/3AYh9Bj",Jio Cricket Hindi HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
@@ -146,7 +146,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872
 #EXTINF:0 tvg-logo="https://bit.ly/3bkqaZs", Nickelodeon
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=547
-#EXTINF:0 tvg-logo="https://bit.ly/34CJQHJ",Jio KIDS
+#EXTINF:0 tvg-logo="https://bit.ly/3GnvhVX",Jio KIDS
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1430
 #EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
@@ -154,7 +154,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
-#EXTINF:0 tvg-logo="https://bit.ly/3sddxHE", DreamWorks
+#EXTINF:0 tvg-logo="https://bit.ly/35SiRJ1", DreamWorks
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― EXTRAA
