@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/3D3YW5m"
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― ENTERTAINMENT 
 
@@ -100,6 +100,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
 #EXTINF:0 tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
+#EXTINF:0 tvg-logo="https://bit.ly/3GuiUqQ",Jio Cricket Hindi HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
 
@@ -144,10 +146,16 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872
 #EXTINF:0 tvg-logo="https://bit.ly/3bkqaZs", Nickelodeon
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=547
+#EXTINF:0 tvg-logo="https://bit.ly/34CJQHJ",Jio KIDS
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1430
 #EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
+#EXTINF:0 tvg-logo="https://bit.ly/3oniWur", Nick HD+
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
+#EXTINF:0 tvg-logo="https://bit.ly/3sddxHE", DreamWorks
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― EXTRAA
 
