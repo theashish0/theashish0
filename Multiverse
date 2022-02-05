@@ -100,7 +100,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
 #EXTINF:0 tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
-#EXTINF:0 tvg-logo="https://bit.ly/3GuiUqQ",Jio Cricket Hindi HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Gvam3g",Jio Cricket Hindi HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
