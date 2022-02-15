@@ -107,12 +107,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
-#EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World Hindi
-https://rebrand.ly/tioygdt
 #EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
-#EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World Hindi
-https://rebrand.ly/v33czxg
 #EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
 #EXTINF:0 tvg-logo="https://bit.ly/3bkpraG", TLC HD
