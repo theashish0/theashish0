@@ -129,7 +129,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
 #EXTINF:0 tvg-logo="https://bit.ly/3nFcnlQ", Disney
 http://103.153.39.36:8000/play/a01y
 #EXTINF:0 tvg-logo="https://bit.ly/3yaUiB3", Hungama TV
-http://103.153.39.36:8000/play/a01x
+https://bit.ly/36n0MTF
 #EXTINF:0 tvg-logo="https://bit.ly/3bkqaZs", Nick Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
 #EXTINF:0 tvg-logo="https://bit.ly/3w3ACxP", Pogo Hindi
@@ -160,7 +160,7 @@ https://bit.ly/3AMz5yS
 #EXTINF:0 tvg-logo="https://bit.ly/3mnHCTb", Zee Zest HD
 #https://bit.ly/3AOi33a
 #EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
-https://bit.ly/3rm0OmS
+https://bit.ly/3BqzEPb
 #EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
 https://bit.ly/34yJB0g
 #EXTINF:0 tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
