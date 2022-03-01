@@ -45,7 +45,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 #EXTINF:0 tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3Cji6nD", ABP News India
-https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 #EXTINF: tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
 https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
