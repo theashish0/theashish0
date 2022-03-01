@@ -45,27 +45,27 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
 #EXTINF:0 tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3Cji6nD", ABP News India
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
+https://bit.ly/35Ilz3P
 #EXTINF: tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
 https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+https://bit.ly/3sGEXr3
 #EXTINF:0 tvg-logo="https://bit.ly/3GyYZsq", News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3BKfv52", India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+https://bit.ly/3tjskBc
 #EXTINF:0 tvg-logo="https://bit.ly/2Zx7B1l", Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://bit.ly/35Hf8Ob
 #EXTINF:0 tvg-logo="https://bit.ly/3CTYoPz", India News
 https://itvoign.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
-https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/chunklist_4.m3u8
+https://bit.ly/3sx413p
 #EXTINF:0 tvg-logo="https://bit.ly/3bjFOUX", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3vUt4NO", Republic TV
-https://ottr21.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+https://bit.ly/3hLyLrv
 #EXTINF:0 tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
-https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+https://bit.ly/3HD7P7r
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― MUSIC
 
@@ -82,11 +82,11 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3BlPxof", E 24
 https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3C6q42y", B4U Music
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+https://bit.ly/3IDj2GA
 #EXTINF:0 tvg-logo="https://bit.ly/3nwwwuq", ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3bgcj6x", Music India
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/877600.m3u8
+https://bit.ly/35iXKzD
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― SPORTS
 
