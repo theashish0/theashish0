@@ -106,7 +106,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
 
 #EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
+https://snehapi-march.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
+#plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
 #EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
 #EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
