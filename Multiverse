@@ -105,23 +105,23 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
 
-#EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
+#EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f"catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
-#EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World
+#EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Animal Planet HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
-#EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
-#EXTINF:0 tvg-logo="https://bit.ly/3bkpraG", TLC HD
+#EXTINF:0 tvg-logo="https://bit.ly/3bkpraG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", TLC HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
-#EXTINF:0 tvg-logo="https://bit.ly/3g7FQlm", Travel XP HD Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3g7FQlm" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Travel XP HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
-#EXTINF:0 tvg-logo="https://bit.ly/3g5G5wX", Animal Planet Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3g5G5wX" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Animal Planet Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
-#EXTINF:0 tvg-logo="https://bit.ly/3rd1Oty", Discovery Channel Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3rd1Oty" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Discovery Channel Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
-#EXTINF:0 tvg-logo="https://bit.ly/33TZQ8B", Food Food
+#EXTINF:0 tvg-logo="https://bit.ly/33TZQ8B" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Food Food
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
-#EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
+#EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony BBC Earth HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― KIDS
