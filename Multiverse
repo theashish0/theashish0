@@ -2,21 +2,21 @@
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― ENTERTAINMENT 
 
-#EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY", Colors HD
+#EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
-#EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
+#EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
-#EXTINF:0 tvg-logo="https://bit.ly/3bjgi25", Zee TV HD
+#EXTINF:0 tvg-logo="https://bit.ly/3bjgi25" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Zee TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
-#EXTINF:0 tvg-logo="https://bit.ly/3Eg8OcG", And TV HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Eg8OcG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
-#EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
+#EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony SAB HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
-#EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h", DD National
+#EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
-#EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv", Comedy Central HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Comedy Central HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
-#EXTINF:0 tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
+#EXTINF:0 tvg-logo="https://bit.ly/34lx5Ba" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― MOVIES
