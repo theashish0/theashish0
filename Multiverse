@@ -139,7 +139,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=816
 #EXTINF:0 tvg-logo="https://bit.ly/3ml3237", Sonic Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 #EXTINF:0 tvg-logo="https://bit.ly/3Gt2RuT", Sony Yay Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=872
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000001971&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 #EXTINF:0 tvg-logo="https://bit.ly/3GnvhVX",Jio KIDS
