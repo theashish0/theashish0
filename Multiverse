@@ -5,13 +5,13 @@
 #EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009246&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3bjgi25" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Zee TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
 #EXTINF:0 tvg-logo="https://bit.ly/3Eg8OcG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
 #EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony SAB HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
 #EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Comedy Central HD
@@ -23,7 +23,6 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
 #EXTINF:0 tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot;
-#plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
 #EXTINF:0 tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
 #EXTINF:0 tvg-logo="https://bit.ly/3vUxGnl", And Pictures HD
@@ -31,42 +30,42 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
 #EXTINF:0 tvg-logo="https://bit.ly/3G6f2MB", Colors Cineplex
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
 #EXTINF:0 tvg-logo="https://bit.ly/3o7TQ2G", Sony Max SD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=289
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009249&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3Gt7a9n", Colors Cineplex HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
 #EXTINF:0 tvg-logo="https://bit.ly/3FovjfX", Sony MAX2
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=483
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000044878&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
 #EXTINF:0 tvg-logo="https://bit.ly/3vQMPWR", Sony Pix HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=762
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009258&amp;ltype=Live&quot;
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― NEWS
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3Cji6nD", ABP News India
-https://bit.ly/35Ilz3P
+plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&quot;
 #EXTINF: tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
-https://feeds.intoday.in/gnt/api/master.m3u8
+plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
-https://bit.ly/3sGEXr3
+plugin://plugin.video.youtube/play/?video_id=U0MQzYxq430&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3GyYZsq", News Nation
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+plugin://plugin.video.youtube/play/?video_id=UX9FUXEdX4E&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3BKfv52", India TV
-https://bit.ly/3tjskBc
+plugin://plugin.video.youtube/play/?video_id=Xmm3Kr5P1Uw&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2Zx7B1l", Zee News
-https://bit.ly/35Hf8Ob
+plugin://plugin.video.youtube/play/?video_id=zLVoU-x-i7o&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3CTYoPz", India News
 https://itvoign.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
-https://bit.ly/3sx413p
+plugin://plugin.video.youtube/play/?video_id=B3KpVAyvDU0&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3bjFOUX", India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
+plugin://plugin.video.youtube/play/?video_id=lyeyoqwXm5o&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3vUt4NO", Republic TV
-https://bit.ly/3hLyLrv
+plugin://plugin.video.youtube/play/?video_id=D9B13Fzh23M&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
-https://bit.ly/3HD7P7r
+plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs&quot;
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― MUSIC
 
@@ -92,13 +91,13 @@ https://bit.ly/35iXKzD
 #EXTM3U:0, ――――――――――――――――――――――――――――――― SPORTS
 
 #EXTINF:0 tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=155
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009275&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=162
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009276&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3vRKQ4z", Ten 2 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=891
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009277&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3moRprW", Ten 3 HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=892
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009278&amp;ltype=Live&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
 #EXTINF:0 tvg-logo="https://bit.ly/3AYh9Bj",Jio Cricket Hindi HD
@@ -123,7 +122,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
 #EXTINF:0 tvg-logo="https://bit.ly/33TZQ8B" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Food Food
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony BBC Earth HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot;
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― KIDS
 
