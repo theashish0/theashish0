@@ -22,7 +22,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 #EXTM3U:0, ――――――――――――――――――――――――――――――― MOVIES
 
 #EXTINF:0 tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot;
+#plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=476
 #EXTINF:0 tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
 #EXTINF:0 tvg-logo="https://bit.ly/3vUxGnl", And Pictures HD
