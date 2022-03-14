@@ -49,21 +49,21 @@ plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&quot;
 #EXTINF: tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
 plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
-plugin://plugin.video.youtube/play/?video_id=U0MQzYxq430&quot;
+plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3GyYZsq", News Nation
-plugin://plugin.video.youtube/play/?video_id=UX9FUXEdX4E&quot;
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3BKfv52", India TV
 plugin://plugin.video.youtube/play/?video_id=Xmm3Kr5P1Uw&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/2Zx7B1l", Zee News
-plugin://plugin.video.youtube/play/?video_id=zLVoU-x-i7o&quot;
+https://bit.ly/35Hf8Ob
 #EXTINF:0 tvg-logo="https://bit.ly/3CTYoPz", India News
 https://itvoign.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
-plugin://plugin.video.youtube/play/?video_id=B3KpVAyvDU0&quot;
+plugin://plugin.video.youtube/play/?video_id=911cntbvPBU&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3bjFOUX", India Today
 plugin://plugin.video.youtube/play/?video_id=lyeyoqwXm5o&quot;
 #EXTINF:0 tvg-logo="https://bit.ly/3vUt4NO", Republic TV
-plugin://plugin.video.youtube/play/?video_id=D9B13Fzh23M&quot;
+https://bit.ly/3hLyLrv
 #EXTINF:0 tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs&quot;
 
