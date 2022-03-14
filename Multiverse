@@ -71,7 +71,7 @@ plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 
 #EXTINF:0 tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
-#EXTINF:0 tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Gyl3TJ" catchup="vod", MTV Beats HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
 #EXTINF:0 tvg-logo="https://bit.ly/3BlAZ7Z", Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
