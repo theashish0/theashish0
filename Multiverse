@@ -2,21 +2,21 @@
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― ENTERTAINMENT 
 
-#EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Colors HD
+#EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
-#EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=291&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009246&amp;ltype=Live&quot;
-#EXTINF:0 tvg-logo="https://bit.ly/3bjgi25" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Zee TV HD
+#EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009246&amp;ltype=Live&quot
+#EXTINF:0 tvg-logo="https://bit.ly/3bjgi25", Zee TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
-#EXTINF:0 tvg-logo="https://bit.ly/3Eg8OcG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", And TV HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Eg8OcG", And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
-#EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=471&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony SAB HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot;
-#EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", DD National
+#EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot
+#EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
-#EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Comedy Central HD
+#EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv", Comedy Central HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
-#EXTINF:0 tvg-logo="https://bit.ly/34lx5Ba" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Colors Infinity HD
+#EXTINF:0 tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― MOVIES
@@ -72,7 +72,7 @@ plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 #EXTINF:0 tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
 #EXTINF:0 tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
 #EXTINF:0 tvg-logo="https://bit.ly/3BlAZ7Z", Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3mo62vM", Zing
@@ -105,23 +105,23 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
 
-#EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f"catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Discovery HD World
+#EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
-#EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Animal Planet HD World
+#EXTINF:0 tvg-logo="https://bit.ly/3jIyZkc", Animal Planet HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
-#EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", History TV18 HD Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
-#EXTINF:0 tvg-logo="https://bit.ly/3bkpraG" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", TLC HD
+#EXTINF:0 tvg-logo="https://bit.ly/3bkpraG", TLC HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
-#EXTINF:0 tvg-logo="https://bit.ly/3g7FQlm" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Travel XP HD Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3g7FQlm", Travel XP HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
-#EXTINF:0 tvg-logo="https://bit.ly/3g5G5wX" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Animal Planet Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3g5G5wX", Animal Planet Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
-#EXTINF:0 tvg-logo="https://bit.ly/3rd1Oty" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Discovery Channel Hindi
+#EXTINF:0 tvg-logo="https://bit.ly/3rd1Oty", Discovery Channel Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
-#EXTINF:0 tvg-logo="https://bit.ly/33TZQ8B" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Food Food
+#EXTINF:0 tvg-logo="https://bit.ly/33TZQ8B", Food Food
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
-#EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL" catchup="vod" catchup-source="plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=821&showtime={H}{M}{S}&srno={Y}{m}{d}" catchup-days="7", Sony BBC Earth HD
+#EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot
 
 #EXTM3U:0, ――――――――――――――――――――――――――――――― KIDS
