@@ -4,7 +4,7 @@
 PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
-https://bit.ly/3KSFsoT
+https://rebrand.ly/1anep01
 #EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
@@ -15,6 +15,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
 #EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot
+#EXTINF:0 tvg-logo="https://bit.ly/3q6GVPA", Star Bharat HD
+https://rebrand.ly/a2f0a6
 #EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
 #EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv", Comedy Central HD
