@@ -1,7 +1,10 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― ENTERTAINMENT 
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― ENTERTAINMENT ―――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
 
+#EXTINF:0 tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
+https://bit.ly/3KSFsoT
 #EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
@@ -19,7 +22,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 #EXTINF:0 tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― MOVIES
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― MOVIES ――――――― 
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot
@@ -40,7 +44,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
 #EXTINF:0 tvg-logo="https://bit.ly/3vQMPWR", Sony Pix HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009258&amp;ltype=Live&quot
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― NEWS
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― NEWS ――――――― 
+PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
 plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c
@@ -67,7 +72,8 @@ https://bit.ly/3hLyLrv
 #EXTINF:0 tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― MUSIC
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― MUSIC ――――――― 
+PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
@@ -88,7 +94,8 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3bgcj6x", Music India
 https://bit.ly/35iXKzD
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― SPORTS
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― SPORTS ――――――― 
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009275&amp;ltype=Live&quot
@@ -100,10 +107,9 @@ plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009277&amp;ltype=Live&q
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009278&amp;ltype=Live&quot
 #EXTINF:0 tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
-#EXTINF:0 tvg-logo="https://bit.ly/3AYh9Bj",Jio Cricket Hindi HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=438
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― INFOTAINMENT
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― INFOTAINMENT ―――――――
+PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
@@ -124,7 +130,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot
 
-#EXTM3U:0, ――――――――――――――――――――――――――――――― KIDS
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― KIDS ――――――― 
+PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3nFcnlQ", Disney
 http://103.153.39.36:8000/play/a01y
@@ -142,20 +149,9 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000001971&amp;ltype=Live&quot
 #EXTINF:0 tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
-#EXTINF:0 tvg-logo="https://bit.ly/3GnvhVX",Jio KIDS
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1430
 #EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
 #EXTINF:0 tvg-logo="https://bit.ly/3oniWur", Nick HD+
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 tvg-logo="https://bit.ly/35SiRJ1", DreamWorks
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
-
-#EXTM3U:0, ――――――――――――――――――――――――――――――― EXTRAA
-
-#EXTINF:0 tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
-https://bit.ly/3KSFsoT
-#EXTINF:0 tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
-https://bit.ly/3AMz5yS
-#EXTINF:0 tvg-logo="https://bit.ly/3EDEI32", Star Sports 1 HD
-https://bit.ly/3gvhQsu
