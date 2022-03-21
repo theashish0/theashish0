@@ -32,13 +32,13 @@ plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&q
 #EXTINF:0 tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
 #EXTINF:0 tvg-logo="https://bit.ly/3vUxGnl", And Pictures HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185 
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
+#EXTINF:0 tvg-logo="https://bit.ly/3Gt7a9n", Colors Cineplex HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
 #EXTINF:0 tvg-logo="https://bit.ly/3G6f2MB", Colors Cineplex
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
 #EXTINF:0 tvg-logo="https://bit.ly/3o7TQ2G", Sony Max SD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009249&amp;ltype=Live&quot
-#EXTINF:0 tvg-logo="https://bit.ly/3Gt7a9n", Colors Cineplex HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
 #EXTINF:0 tvg-logo="https://bit.ly/3FovjfX", Sony MAX2
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000044878&amp;ltype=Live&quot
 #EXTINF:0 tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema
@@ -57,6 +57,8 @@ plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&
 plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
 plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
+#EXTINF:0 tvg-logo="https://bit.ly/3IlJJhX", DD News HD
+plugin://plugin.video.youtube/play/?video_id=SIOM-RyamcI
 #EXTINF:0 tvg-logo="https://bit.ly/3GyYZsq", News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3BKfv52", India TV
