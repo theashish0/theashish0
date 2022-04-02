@@ -58,7 +58,7 @@ plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus
 #EXTINF:0 tvg-logo="https://bit.ly/2ZthOw3", News 18 India
 plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
 #EXTINF:0 tvg-logo="https://bit.ly/3IlJJhX", DD News HD
-plugin://plugin.video.youtube/play/?video_id=SIOM-RyamcI
+plugin://plugin.video.youtube/play/?video_id=nBHgdf3aEvI
 #EXTINF:0 tvg-logo="https://bit.ly/3GyYZsq", News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3BKfv52", India TV
