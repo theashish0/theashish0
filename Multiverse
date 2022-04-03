@@ -4,7 +4,7 @@
 PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
-https://rebrand.ly/1anep01 | Telegram - @TechWithAsh 
+https://rebrand.ly/starplus0?| TELEGRAM - TechWithAsh
 #EXTINF:0 tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
 #EXTINF:0 tvg-logo="https://bit.ly/3ElHlX5", Sony HD
@@ -16,7 +16,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
 #EXTINF:0 tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot
 #EXTINF:0 tvg-logo="https://bit.ly/3q6GVPA", Star Bharat HD
-https://rebrand.ly/a2f0a6
+https://rebrand.ly/starbharat0?| TELEGRAM - TechWithAsh
 #EXTINF:0 tvg-logo="https://bit.ly/3GdGI2h", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
 #EXTINF:0 tvg-logo="https://bit.ly/3Hcsobv", Comedy Central HD
@@ -155,3 +155,17 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 tvg-logo="https://bit.ly/35SiRJ1", DreamWorks
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
+
+#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― EXTRA ――――――― 
+PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+
+#EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", Disney Channel HD US
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", Disney XD HD US
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/3Gd31oT", Disney Jr. HD US
+
+
+
