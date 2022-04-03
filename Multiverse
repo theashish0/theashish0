@@ -33,9 +33,9 @@ plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&q
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
 #EXTINF:0 tvg-logo="https://bit.ly/36RvCV4", And Pictures HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
-#EXTINF: logo="https://bit.ly/3vUxEvJ", Star Gold HD
+#EXTINF: tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
 https://rebrand.ly/stargold0?| TELEGRAM - TechWithAsh
-#EXTINF: logo="https://bit.ly/3J5jjkS", Star Gold Select HD
+#EXTINF: tvg-logo="https://bit.ly/3J5jjkS", Star Gold Select HD
 https://rebrand.ly/stargoldselect0?| TELEGRAM - TechWithAsh
 #EXTINF:0 tvg-logo="https://bit.ly/3Gt7a9n", Colors Cineplex HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
