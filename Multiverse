@@ -153,7 +153,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000001971&amp;ltype=Live&quot
 #EXTINF:0 group-title="A$H" tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
-#EXTINF:0 group-title="A$H" group-title="A$H" tvg-logo="https://bit.ly/3oniWur", Nick HD+
+#EXTINF:0 group-title="A$H" tvg-logo="https://bit.ly/3oniWur", Nick HD+
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 group-title="A$H" tvg-logo="https://bit.ly/35SiRJ1", DreamWorks
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
