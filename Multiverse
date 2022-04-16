@@ -157,3 +157,5 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/35SiRJ1", DreamWorks
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
+#EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
