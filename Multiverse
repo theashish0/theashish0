@@ -61,6 +61,8 @@ plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus
 plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3IlJJhX", DD News HD
 plugin://plugin.video.youtube/play/?video_id=nBHgdf3aEvI
+#EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3xyH2YP", TV9 Bharatvarsh
+plugin://plugin.video.youtube/play/?video_id=6t7eH1x3VXI
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3GyYZsq", News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3BKfv52", India TV
