@@ -123,16 +123,12 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=286
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/2Y50YTQ", History TV18 HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=578
-#EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3bkpraG", TLC HD
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
-#EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3g7FQlm", Travel XP HD Hindi
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3g5G5wX", Animal Planet Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3rd1Oty", Discovery Channel Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
-#EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/33TZQ8B", Food Food
-plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
+#EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3rw5k1S",Discovery Science
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot
 
@@ -159,3 +155,15 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
+
+#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― LIFESTYLE ―――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――――
+
+#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3bkpraG", TLC HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
+#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3g7FQlm", Travel XP HD Hindi
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
+#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/33TZQ8B", Food Food
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
+#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3KZaf2T",Foodxp
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
