@@ -24,13 +24,13 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
-#EXTINF:0 tvg-logo="https://bit.ly/3jVQ0Hz", MOVIES ――――――――――――――――――― 
+#EXTINF:0 tvg-logo="https://bit.ly/3xEh9XC", MOVIES ――――――――――――――――――― 
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/36OURr3", Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
+plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/36RvCV4", And Pictures HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
