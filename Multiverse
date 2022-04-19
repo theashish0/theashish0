@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTINF:0 tvg-logo="https://bit.ly/3vxT8il", ENTERTAINMENT ―――――――――――――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/37suZS0", ENTERTAINMENT ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――――
 
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
