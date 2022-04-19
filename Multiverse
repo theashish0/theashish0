@@ -80,7 +80,7 @@ https://bit.ly/3hLyLrv?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 
-#EXTINF:0, tvg-logo="https://bit.ly/3KZvG3Y", MUSIC ―――――――――――――――――――
+#EXTINF:0, tvg-logo="https://bit.ly/3vAFdrQ", MUSIC ―――――――――――――――――――
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
@@ -102,7 +102,7 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3bgcj6x", Music India
 https://bit.ly/35iXKzD?| TELEGRAM - TechWithAsh
 
-#EXTINF:0 tvg-logo="https://bit.ly/3Es9OeS", SPORTS ―――――――――――――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/36rcop0", SPORTS ―――――――――――――――――――
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
@@ -158,7 +158,7 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
 
-#EXTINF:0 tvg-logo="https://bit.ly/3On3iLi", LIFESTYLE ―――――――――――――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3vxdEzm", LIFESTYLE ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――
 
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3bkpraG", TLC HD
@@ -170,8 +170,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3KZaf2T",Foodxp
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
 
-#EXTINF:0 tvg-logo="https://bit.ly/3uS1rGu", RADIO ―――――――――――――――――――
-PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3uS1rGu", FM RADIO ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――――
 
 #EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3jSsWcM", Radio Mirchi 98.3
 http://node-31.zeno.fm/20g8vnc5mp8uv?| TELEGRAM - TechWithAsh
