@@ -1,10 +1,7 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTINF:0 tvg-logo="https://bit.ly/3IQ2xpQ", TECHWITHASH | YOUTUBE | TELEGRAM
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
-
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― ENTERTAINMENT ―――――――
-PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3vxT8il", ENTERTAINMENT ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――――
 
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
 https://rebrand.ly/starplus0?| TELEGRAM - TechWithAsh
@@ -27,8 +24,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― MOVIES ――――――― 
-PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3jVQ0Hz", MOVIES ――――――――――――――――――― 
+PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot
@@ -51,8 +48,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3vQMPWR", Sony Pix HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009258&amp;ltype=Live&quot
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― NEWS ――――――― 
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――
+#EXTINF:0 tvg-logo="https://bit.ly/3vxamMw", NEWS ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
 plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c
@@ -83,8 +80,8 @@ https://bit.ly/3hLyLrv?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 
-#EXTINF:0, tvg-logo="https://bit.ly/3tbQoXW", ――――――― MUSIC ――――――― 
-PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+#EXTINF:0, tvg-logo="https://bit.ly/3KZvG3Y", MUSIC ―――――――――――――――――――
+PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3nFGpG8", MTV HD Plus
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
@@ -105,8 +102,8 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3bgcj6x", Music India
 https://bit.ly/35iXKzD?| TELEGRAM - TechWithAsh
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― SPORTS ――――――― 
-PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3Es9OeS", SPORTS ―――――――――――――――――――
+PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009275&amp;ltype=Live&quot
@@ -119,8 +116,8 @@ plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009278&amp;ltype=Live&q
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― INFOTAINMENT ―――――――
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3877Swx", INFOTAINMENT ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――――――
 
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3EuBn6f", Discovery HD World
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=463
@@ -137,8 +134,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
 plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― KIDS ――――――― 
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――
+#EXTINF:0 tvg-logo="https://bit.ly/3Eu1mvZ", KIDS ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
 
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3Gd31oT", CN HD+ English
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1079
@@ -161,8 +158,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― LIFESTYLE ―――――――
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3On3iLi", LIFESTYLE ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――
 
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3bkpraG", TLC HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
@@ -173,8 +170,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3KZaf2T",Foodxp
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
 
-#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― RADIO ―――――――
-PLUGIN::0, ――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+#EXTINF:0 tvg-logo="https://bit.ly/3uS1rGu", RADIO ―――――――――――――――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3jSsWcM", Radio Mirchi 98.3
 http://node-31.zeno.fm/20g8vnc5mp8uv?| TELEGRAM - TechWithAsh
