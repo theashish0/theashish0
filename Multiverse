@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
+#EXTINF:0 tvg-logo="https://bit.ly/3IQ2xpQ", TECHWITHASH | YOUTUBE | TELEGRAM
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+
 #EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― ENTERTAINMENT ―――――――
 PLUGIN::0, ―――――――――――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――
 
@@ -169,3 +172,11 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3KZaf2T",Foodxp
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
+
+#EXTINF:0 tvg-logo="https://bit.ly/3tbQoXW", ――――――― RADIO ―――――――
+PLUGIN::0, ――――――――――――――――――――――――――――――――――――――― CHANNELS ――――――
+
+#EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3jSsWcM", Radio Mirchi 98.3
+http://node-31.zeno.fm/20g8vnc5mp8uv?| TELEGRAM - TechWithAsh
+#EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3OlY81Z", Radio City 91.1
+https://node-04.zeno.fm/pxc55r5uyc9uv?| TELEGRAM - TechWithAsh
