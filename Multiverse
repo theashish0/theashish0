@@ -163,7 +163,7 @@ PLUGIN::0, ―――――――――――――――――――――――
 
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3bkpraG", TLC HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=479
-#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3g7FQlm", Travel XP HD Hindi
+#EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/3g7FQlm", Travelxp HD Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=562
 #EXTINF:0 group-title="LIFE" tvg-logo="https://bit.ly/33TZQ8B", Food Food
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=561
