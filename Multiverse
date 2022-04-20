@@ -51,7 +51,7 @@ plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009258&amp;ltype=Live&q
 #EXTINF:0 tvg-logo="https://bit.ly/3vxamMw", NEWS ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
 
-#EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak HD
+#EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak
 plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Cji6nD", ABP News India
 plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&
@@ -59,7 +59,7 @@ plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&
 plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/2ZthOw3", News 18 India
 plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
-#EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3IlJJhX", DD News HD
+#EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3IlJJhX", DD News
 plugin://plugin.video.youtube/play/?video_id=nBHgdf3aEvI
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3xyH2YP", TV9 Bharatvarsh
 plugin://plugin.video.youtube/play/?video_id=6t7eH1x3VXI
