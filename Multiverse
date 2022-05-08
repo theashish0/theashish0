@@ -56,11 +56,11 @@ plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Cji6nD", ABP News India
 plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
-plugin://plugin.video.youtube/play/?video_id=ZcnowIlZLus
+plugin://plugin.video.youtube/play/?video_id=CaiAlIIEgs0
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/2ZthOw3", News 18 India
 plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3IlJJhX", DD News
-plugin://plugin.video.youtube/play/?video_id=nBHgdf3aEvI
+plugin://plugin.video.youtube/play/?video_id=QmERLqjlHdo
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3xyH2YP", TV9 Bharatvarsh
 plugin://plugin.video.youtube/play/?video_id=6t7eH1x3VXI
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3GyYZsq", News Nation
@@ -157,6 +157,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
+#EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3wcOzdt",WB Kids
+plugin://plugin.video.youtube/play/?video_id=CxsXg22188U
 
 #EXTINF:0 tvg-logo="https://bit.ly/3vxdEzm", LIFESTYLE ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――
