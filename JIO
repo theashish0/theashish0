@@ -193,7 +193,7 @@ http://192.168.1.5:8080/live/2038.m3u8
 http://192.168.1.5:8080/live/2040.m3u8
 #EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="http://192.168.1.5:8080/jtvimage/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
 http://192.168.1.5:8080/live/2065.m3u8
-XTINF:-1 tvg-id=2757 tvg-name="Zee Zest HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_Zest_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Zee Zest HD
+#EXTINF:-1 tvg-id=2757 tvg-name="Zee Zest HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_Zest_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Zee Zest HD
 http://192.168.1.5:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id=2761 tvg-name="Zee Anmol Cinema 2" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_Ganga.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol Cinema 2
 http://192.168.1.5:8080/live/2761.m3u8
