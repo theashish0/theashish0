@@ -12,7 +12,7 @@ http://192.168.1.5:8080/live/167.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.1.5:8080/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://192.168.1.5:8080/live/173.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.5:8080/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
-http://192.168.1.5:8080/live/177.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://192.168.1.5:8080/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://192.168.1.5:8080/live/182.m3u8
 #EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://192.168.1.5:8080/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
@@ -117,7 +117,7 @@ http://192.168.1.5:8080/live/584.m3u8
 #EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://192.168.1.5:8080/jtvimage/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
 http://192.168.1.5:8080/live/585.m3u8
 #EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://192.168.1.5:8080/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
-http://192.168.1.5:8080/live/587.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://192.168.1.5:8080/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 http://192.168.1.5:8080/live/591.m3u8
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://192.168.1.5:8080/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
