@@ -28,7 +28,7 @@ http://192.168.1.5:8080/live/204.m3u8
 #EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://192.168.1.5:8080/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
 http://192.168.1.5:8080/live/231.m3u8
 #EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://192.168.1.5:8080/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
-http://192.168.1.5:8080/live/235.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://192.168.1.5:8080/jtvimage/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery
 http://192.168.1.5:8080/live/242.m3u8
 #EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://192.168.1.5:8080/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
@@ -81,7 +81,7 @@ http://192.168.1.5:8080/live/501.m3u8
 #EXTINF:-1 tvg-id=502 tvg-name="Good News Today" tvg-logo="http://192.168.1.5:8080/jtvimage/Tez.png" tvg-language="Hindi" tvg-type="News" group-title="News", Good News Today
 http://192.168.1.5:8080/live/502.m3u8
 #EXTINF:-1 tvg-id=504 tvg-name="Zee News" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
-http://192.168.1.5:8080/live/504.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://192.168.1.5:8080/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
 http://192.168.1.5:8080/live/527.m3u8
 #EXTINF:-1 tvg-id=528 tvg-name="DD India" tvg-logo="http://192.168.1.5:8080/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
