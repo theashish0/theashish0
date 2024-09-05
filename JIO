@@ -10,7 +10,7 @@ http://192.168.1.5:8080/live/165.m3u8
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
 http://192.168.1.5:8080/live/167.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.1.5:8080/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
-http://192.168.1.5:8080/live/173.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://192.168.1.5:8080/jtvimage/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://192.168.1.5:8080/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
