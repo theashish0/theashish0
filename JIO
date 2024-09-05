@@ -47,7 +47,7 @@ http://192.168.1.5:8080/live/286.m3u8
 #EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema
 http://192.168.1.5:8080/live/415.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://192.168.1.5:8080/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
-http://192.168.1.5:8080/live/440.m3u8
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="http://192.168.1.5:8080/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://192.168.1.5:8080/live/463.m3u8
 #EXTINF:-1 tvg-id=472 tvg-name="And TV HD" tvg-logo="http://192.168.1.5:8080/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
