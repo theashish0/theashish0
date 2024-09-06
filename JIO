@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://192.168.1.5:8080/live/144.m3u8
+http://192.168.1.3:8080/live/144.m3u8
 #EXTINF:-1 tvg-id=164 tvg-name="Travelxp HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 http://192.168.1.5:8080/live/164.m3u8
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.5:8080/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
