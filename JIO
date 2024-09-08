@@ -26,7 +26,7 @@ https://ythls-v3.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:-1 tvg-id=204 tvg-name="DD Sports" tvg-logo="http://192.168.1.4:8080/jtvimage/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
 http://192.168.1.4:8080/live/204.m3u8
 #EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://192.168.1.4:8080/jtvimage/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
-https://ythls-v3.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
+https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
 #EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://192.168.1.4:8080/jtvimage/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://192.168.1.4:8080/jtvimage/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery
