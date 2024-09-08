@@ -182,7 +182,7 @@ http://192.168.1.4:8080/live/1763.m3u8
 #EXTINF:-1 tvg-id=1839 tvg-name="And Pictures" tvg-logo="http://192.168.1.4:8080/jtvimage/And_Pictures.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures
 http://192.168.1.4:8080/live/1839.m3u8
 #EXTINF:-1 tvg-id=1906 tvg-name="Times Now Navbharat" tvg-logo="http://192.168.1.4:8080/jtvimage/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Times Now Navbharat
-https://ythls-v3.onrender.com/channel/UCMk9Tdc-d1BIcAFaSppiVkw.m3u8
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id=2014 tvg-name="News India TV" tvg-logo="http://192.168.1.4:8080/jtvimage/Rajpath_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", News India TV
 http://192.168.1.4:8080/live/2014.m3u8
 #EXTINF:-1 tvg-id=2024 tvg-name="And TV" tvg-logo="http://192.168.1.4:8080/jtvimage/And_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV
