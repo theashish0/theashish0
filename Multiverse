@@ -3,70 +3,56 @@
 #EXTINF:0 tvg-logo="https://bit.ly/37suZS0", ENTERTAINMENT ―――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――
 
-#EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3Emjjeu", Star Plus HD
-https://rebrand.ly/starplus0?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3pJRTuY", Colors HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=144
-#EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3ElHlX5", Sony HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009246&amp;ltype=Live&quot
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3bjgi25", Zee TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=167
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3Eg8OcG", And TV HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=472
-#EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3vTdjH8", Sony SAB HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009248&amp;ltype=Live&quot
-#EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3q6GVPA", Star Bharat HD
-https://rebrand.ly/starbharat0?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3GdGI2h", DD National
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=202
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/3Hcsobv", Comedy Central HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 #EXTINF:0 group-title="GEC" tvg-logo="https://bit.ly/34lx5Ba", Colors Infinity HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Rishtey.png", Rishtey
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279
 
 #EXTINF:0 tvg-logo="https://bit.ly/3xEh9XC", MOVIES ――――――――――――――――――― 
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/36OURr3", Zee Cinema HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=165
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3CrKC6s", Sony Max HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009247&amp;ltype=Live&quot
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/36RvCV4", And Pictures HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=185
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3vUxEvJ", Star Gold HD
-https://rebrand.ly/stargold0?| TELEGRAM - TechWithAsh 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3Gt7a9n", Colors Cineplex HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1477
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/38dVoTG", Colors Cineplex
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3o7TQ2G", Sony Max SD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009249&amp;ltype=Live&quot
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3FovjfX", Sony MAX2
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000044878&amp;ltype=Live&quot
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/2ZwYxd6", Zee Cinema
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3vQMPWR", Sony Pix HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009258&amp;ltype=Live&quot
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/B4U_Movies.png", B4U Movies
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=182
 
 #EXTINF:0 tvg-logo="https://bit.ly/3vxamMw", NEWS ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
 
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eox0K2", Aaj Tak
-plugin://plugin.video.youtube/play/?video_id=Cy_6-_XUW-c
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Cji6nD", ABP News India
-plugin://plugin.video.youtube/play/?video_id=nyd-xznCpJc&
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3Eqny8Y", Good News Today
-plugin://plugin.video.youtube/play/?video_id=CaiAlIIEgs0
+
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/2ZthOw3", News 18 India
-plugin://plugin.video.youtube/play/?video_id=jTc5NN19qYs
+https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3IlJJhX", DD News
-plugin://plugin.video.youtube/play/?video_id=E7LOo_g631Y
+https://ythls-v3.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3xyH2YP", TV9 Bharatvarsh
-plugin://plugin.video.youtube/play/?video_id=ADQqpdCtAHs
+
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3GyYZsq", News Nation
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3BKfv52", India TV
-plugin://plugin.video.youtube/play/?video_id=Xmm3Kr5P1Uw
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/2Zx7B1l", Zee News
 https://bit.ly/35Hf8Ob?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3CTYoPz", India News
@@ -88,33 +74,27 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BlAZ7Z", Mastiii
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3mo62vM", Zing
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=585
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BoDCG4", 9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BlPxof", E 24
-https://m-c02-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8
+
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3C6q42y", B4U Music
-https://bit.ly/3IDj2GA?| TELEGRAM - TechWithAsh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=183
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3nwwwuq", ZOOM
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3bgcj6x", Music India
-https://bit.ly/35iXKzD?| TELEGRAM - TechWithAsh
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=250
 
 #EXTINF:0 tvg-logo="https://bit.ly/36rcop0", SPORTS ―――――――――――――――――――
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
 
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3bkkEGg", Sony Six HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009275&amp;ltype=Live&quot
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3jKBLWj", Ten 1 HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009276&amp;ltype=Live&quot
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3vRKQ4z", Ten 2 HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009277&amp;ltype=Live&quot
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3moRprW", Ten 3 HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009278&amp;ltype=Live&quot
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://bit.ly/3o8VcdC", Eurosport HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=875
+#EXTINF:0 group-title="SPORTS" tvg-logo="http://192.168.1.4:8080/jtvimage/DD_Sports.png", DD Sports
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=204
 
 #EXTINF:0 tvg-logo="https://bit.ly/3877Swx", INFOTAINMENT ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――――――
@@ -131,8 +111,6 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=566
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=575
 #EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3rw5k1S",Discovery Science
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=568
-#EXTINF:0 group-title="INFO" tvg-logo="https://bit.ly/3EoRUbL", Sony BBC Earth HD
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000009252&amp;ltype=Live&quot
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Eu1mvZ", KIDS ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
@@ -147,8 +125,6 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=545
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=559
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3ml3237", Sonic Hindi
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=815
-#EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3Gt2RuT", Sony Yay Hindi
-plugin://plugin.video.sonyliv/?action=Play&amp;video=1000001971&amp;ltype=Live&quot
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/2XRHQsb", Discovery Kids 2
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=554
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3oniWur", Nick HD+
@@ -157,8 +133,6 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1226
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1872
 #EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/36ikYGv",BBC Cbeebies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1976
-#EXTINF:0 group-title="KIDS" tvg-logo="https://bit.ly/3wcOzdt",WB Kids
-plugin://plugin.video.youtube/play/?video_id=CxsXg22188U
 
 #EXTINF:0 tvg-logo="https://bit.ly/3vxdEzm", LIFESTYLE ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――――
@@ -176,8 +150,8 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1955
 PLUGIN::0, ――――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――――
 
 #EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3jSsWcM", Radio Mirchi 98.3
-http://node-31.zeno.fm/20g8vnc5mp8uv?| TELEGRAM - TechWithAsh
+
 #EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3OlY81Z", Radio City 91.1
-https://node-04.zeno.fm/pxc55r5uyc9uv?| TELEGRAM - TechWithAsh
+
 #EXTINF:0 group-title="RADIO" tvg-logo="https://bit.ly/3jYBRJr", Big FM 106.2
-https://funasia.streamguys1.com/live4?| TELEGRAM - TechWithAsh
+
