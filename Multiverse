@@ -17,6 +17,16 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1157
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1158
 #EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Rishtey.png", Rishtey
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=279
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Zee_Anmol.png", Zee Anmol
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=473
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Epic_HD.png", Epic
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=481
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Dabangg.png", Dabangg
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=532
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Dangal.png", Dangal
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=701
+#EXTINF:0 group-title="GEC" tvg-logo="http://192.168.1.4:8080/jtvimage/Zee_Cafe_HD.png", Zee Cafe HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1319
 
 #EXTINF:0 tvg-logo="https://bit.ly/3xEh9XC", MOVIES ――――――――――――――――――― 
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
@@ -33,6 +43,22 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=482
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=484
 #EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/B4U_Movies.png", B4U Movies
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=182
+#EXTINF:0 group-title="MOVIES" tvg-logo="hhttp://192.168.1.4:8080/jtvimage/Zee_Anmol_Cinema.png", Zee Anmol Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=415
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/Bhojpuri_Cinema.png", Bhojpuri Cinema
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=486
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/Zee_Classic.png", Zee Bollywood
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=487
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/Zee_Action.png", Zee Action
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=488
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/B4U_Bhojpuri.png", B4U Bhojpuri
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1296
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/And_Flix_HD.png", And Flix HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1322
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/And_Prive_HD.png", And Prive HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1349
+#EXTINF:0 group-title="MOVIES" tvg-logo="http://192.168.1.4:8080/jtvimage/And_Xplore_HD.png", And Explor HD
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1668
 
 #EXTINF:0 tvg-logo="https://bit.ly/3vxamMw", NEWS ―――――――――――――――――――
 PLUGIN::0, ――――――――――――――――――――――――――――――― CHANNELS ―――――――――――――――――
@@ -56,13 +82,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/pla
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/2Zx7B1l", Zee News
 https://bit.ly/35Hf8Ob?| TELEGRAM - TechWithAsh
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3CTYoPz", India News
-https://itvoign.multitvsolution.com/hls/inkhabar_720p/index.m3u8
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=498
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3jKzfPR", Republic Bharat
 plugin://plugin.video.youtube/play/?video_id=911cntbvPBU
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3NMYs9B", India Today
 plugin://plugin.video.youtube/play/?video_id=lyeyoqwXm5o
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3vUt4NO", Republic TV
-https://bit.ly/3hLyLrv?| TELEGRAM - TechWithAsh
+https://ythls-v3.onrender.com/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://bit.ly/3ml4GSs", CNN NEWS 18
 plugin://plugin.video.youtube/play/?video_id=H8U3UwRvTBs
 
@@ -74,19 +100,23 @@ plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=1145
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3Gyl3TJ", MTV Beats HD
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=753
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BlAZ7Z", Mastiii
-
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=584
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3mo62vM", Zing
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=585
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BoDCG4", 9XM
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3BlPxof", E 24
-
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=591
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3C6q42y", B4U Music
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=183
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3nwwwuq", ZOOM
-
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=592
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://bit.ly/3bgcj6x", Music India
 plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=250
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://192.168.1.4:8080/jtvimage/9X_Jalwa.png", 9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://192.168.1.4:8080/jtvimage/Sangeet_Bhojpuri.png", Sangeet Bhojpuri
+plugin://plugin.video.jiotv/resources/lib/main/play/?channel_id=741
 
 #EXTINF:0 tvg-logo="https://bit.ly/36rcop0", SPORTS ―――――――――――――――――――
 PLUGIN::0, ―――――――――――――――――――――――――――――――― CHANNELS ――――――――――――――――――
