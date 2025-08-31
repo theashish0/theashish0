@@ -1,0 +1,4 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id=144 tvg-name="Cast" 
+http://192.168.1.5:54612
